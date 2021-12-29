@@ -1,0 +1,19 @@
+{
+	"version": "0.0.49",
+	"instructions": [
+		{
+			"class": {
+				"desktop": "step-00-desktop",
+				"mobile": "step-00-mobile"
+			},
+			"text": {
+				"desktop": "本游戏由马克思乖巧队制作",
+				"mobile": "本游戏特别好玩"
+			}
+		},
+		{
+			"class": "step-02",
+			"text": "马克思乖巧队始于泰山职业技术学院，二〇一九"
+		}
+	]
+}
